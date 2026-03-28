@@ -867,7 +867,7 @@
       ]
     },
     {
-      "id": "Kavos",
+      "id": "Kavos Low",
       "group": "LGGG",
       "owner": ["AC13", "AC19", "AC2", "AC1"],
       "sectors": [
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "id": "Kavos",
+      "id": "Kavos Low",
       "group": "LGGG",
       "owner": ["AC13", "AC19", "AC2", "AC1", "fss/EUCSW"],
       "sectors": [
@@ -966,7 +966,7 @@
       ]
     },
     {
-      "id": "Kavos",
+      "id": "Kavos Upper",
       "group": "LGGG",
       "owner": ["AC13", "AC19", "AC9", "AC20", "AC2", "AC1", "fss/EUCSW"],
       "sectors": [
@@ -3247,7 +3247,7 @@
       ]
     },
     {
-      "id": "Sitia",
+      "id": "Sitia Low",
       "group": "LGGG",
       "owner": ["AC19", "AC5", "AC2", "AC1"],
       "sectors": [
@@ -3318,7 +3318,7 @@
       ]
     },
     {
-      "id": "Sitia",
+      "id": "Sitia Low",
       "group": "LGGG",
       "owner": ["AC19", "AC5", "AC2", "AC1", "fss/EUCSW"],
       "sectors": [
@@ -3350,7 +3350,7 @@
       ]
     },
     {
-      "id": "Sitia",
+      "id": "Sitia Upper",
       "group": "LGGG",
       "owner": ["AC19", "AC15", "AC9", "AC20", "AC5", "AC2", "AC1", "fss/EUCSW"],
       "sectors": [
