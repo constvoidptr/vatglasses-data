@@ -1261,7 +1261,7 @@
         "BBCH": {
             "colours": [
                 {
-                    "hex": "#d74051"
+                    "hex": "#850b18"
                 }
             ],
             "callsign": "Bahrain Radar",
@@ -1274,7 +1274,7 @@
         "BBCL": {
             "colours": [
                 {
-                    "hex": "#a40d1e"
+                    "hex": "#590710"
                 }
             ],
             "callsign": "Bahrain Radar",
