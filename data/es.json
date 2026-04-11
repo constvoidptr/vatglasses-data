@@ -8306,7 +8306,7 @@
         {
           "id": "ESSB CTR",
           "group": "TWR",
-          "owner": ["SB", "S", "W", "E", "RTC", "S9", "S1", "S3", "AA"],
+          "owner": ["SB", "RTC", "S", "W", "E", "S9", "S1", "S3", "AA"],
           "sectors": [
             {
               "min": 0,
