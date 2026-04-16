@@ -30497,7 +30497,7 @@
         "default": false,
         "topdown": [
             "HIR",
-            "SOL",
+            "SOR",
             "LHW",
             "OTMET",
             "LH",
@@ -30516,7 +30516,7 @@
         "topdown": [
           "HHF",
           "HHR",
-          "SOL",
+          "SOR",
           "LHW",
           "OTMET",
           "LH",
