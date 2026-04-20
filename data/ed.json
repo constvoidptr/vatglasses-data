@@ -387,7 +387,7 @@
       "id": "Gera",
       "group": "EDMM",
       "uid": "GER",
-      "owner": ["GER", "HAL", "MEI", "HOF"],
+      "owner": ["GER", "HAL", "HOF"],
       "sectors": [
         {
           "max": 314,
@@ -453,7 +453,7 @@
       "id": "Halle",
       "group": "EDMM",
       "uid": "HAL",
-      "owner": ["HAL", "GER", "MEI", "HOF"],
+      "owner": ["HAL", "GER", "HOF"],
       "sectors": [
         {
           "max": 314,
@@ -653,7 +653,7 @@
       "id": "Meißen",
       "group": "EDMM",
       "uid": "MEI",
-      "owner": ["MEI", "GER", "HOF", "HAL"],
+      "owner": ["MEI", "GER", "HOF"],
       "sectors": [
         {
           "max": 314,
@@ -928,7 +928,7 @@
       "id": "Sachsen Low (Dresden)",
       "group": "APP",
       "uid": "SAS",
-      "owner": ["SAS", "MEI", "TRS", "GER", "HOF", "HAL"],
+      "owner": ["SAS", "MEI", "TRS", "GER", "HOF"],
       "sectors": [
         {
           "max": 164,
@@ -1196,16 +1196,7 @@
       "id": "Freising (München North) High",
       "group": "APP",
       "uid": "DMNH",
-      "owner": [
-        "DMNH",
-        "DMNL",
-        "DMSH",
-        "DMSL",
-        "DMNAT",
-        "DMSAT",
-        "ZUG",
-        "RDG"
-      ],
+      "owner": ["DMNH", "DMNL", "DMSH", "DMSL", "DMND", "DMSD", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 194,
@@ -1257,16 +1248,7 @@
       "id": "Freising (München North) Low",
       "group": "APP",
       "uid": "DMNL",
-      "owner": [
-        "DMNL",
-        "DMNH",
-        "DMSL",
-        "DMSH",
-        "DMNAT",
-        "DMSAT",
-        "ZUG",
-        "RDG"
-      ],
+      "owner": ["DMNL", "DMNH", "DMSL", "DMSH", "DMND", "DMSD", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 94,
@@ -1318,16 +1300,7 @@
       "id": "Erding (München South) High",
       "group": "APP",
       "uid": "DMSH",
-      "owner": [
-        "DMSH",
-        "DMSL",
-        "DMNH",
-        "DMNL",
-        "DMSAT",
-        "DMNAT",
-        "ZUG",
-        "RDG"
-      ],
+      "owner": ["DMSH", "DMSL", "DMNH", "DMNL", "DMSD", "DMND", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 194,
@@ -1377,16 +1350,7 @@
       "id": "Erding (München South) Low",
       "group": "APP",
       "uid": "DMSL",
-      "owner": [
-        "DMSL",
-        "DMSH",
-        "DMNL",
-        "DMNH",
-        "DMSAT",
-        "DMNAT",
-        "ZUG",
-        "RDG"
-      ],
+      "owner": ["DMSL", "DMSH", "DMNL", "DMNH", "DMSD", "DMND", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 94,
@@ -1436,7 +1400,7 @@
       "id": "Thüringen (Leipzig) North",
       "group": "APP",
       "uid": "TRN",
-      "owner": ["TRN", "TRS", "GER", "HAL", "MEI", "HOF"],
+      "owner": ["TRN", "TRS", "HAL", "GER", "HOF"],
       "sectors": [
         {
           "max": 194,
@@ -1536,7 +1500,7 @@
       "id": "Thüringen (Leipzig) South",
       "group": "APP",
       "uid": "TRS",
-      "owner": ["TRS", "TRN", "GER", "HAL", "MEI", "HOF"],
+      "owner": ["TRS", "TRN", "HAL", "GER", "HOF"],
       "sectors": [
         {
           "max": 194,
@@ -2593,15 +2557,7 @@
       "id": "Saale 1",
       "group": "EDUU",
       "uid": "SAL1",
-      "owner": [
-        "SAL",
-        "SPE",
-        "HVL12",
-        "GER",
-        "MEI",
-        "HOF",
-        "HAL"
-      ],
+      "owner": ["SAL", "SPE", "HVL12", "GER", "HOF", "HAL"],
       "sectors": [
         {
           "min": 315,
@@ -2669,15 +2625,7 @@
       "id": "Saale 2",
       "group": "EDUU",
       "uid": "SAL2",
-      "owner": [
-        "SAL",
-        "SPE",
-        "HVL12",
-        "GER",
-        "MEI",
-        "HOF",
-        "HAL"
-      ],
+      "owner": ["SAL", "SPE", "HVL12", "GER", "HOF", "HAL"],
       "sectors": [
         {
           "min": 365,
@@ -2744,15 +2692,7 @@
       "id": "Spree 1",
       "group": "EDUU",
       "uid": "SPE1",
-      "owner": [
-        "SPE",
-        "SAL",
-        "HVL12",
-        "MEI",
-        "GER",
-        "HOF",
-        "HAL"
-      ],
+      "owner": ["SPE", "SAL", "HVL12", "MEI", "GER", "HOF"],
       "sectors": [
         {
           "min": 315,
@@ -2814,15 +2754,7 @@
       "id": "Spree 2",
       "group": "EDUU",
       "uid": "SPE2",
-      "owner": [
-        "SPE",
-        "SAL",
-        "HVL12",
-        "MEI",
-        "GER",
-        "HOF",
-        "HAL"
-      ],
+      "owner": ["SPE", "SAL", "HVL12", "MEI", "GER", "HOF"],
       "sectors": [
         {
           "min": 365,
@@ -10476,7 +10408,7 @@
       "frequency": "120.780",
       "callsign": "München Radar"
     },
-    "DMNAT": {
+    "DMND": {
       "colours": [{ "hex": "#9c322e" }],
       "pre": ["EDDM"],
       "type": "APP",
@@ -10497,7 +10429,7 @@
       "frequency": "127.955",
       "callsign": "München Radar"
     },
-    "DMSAT": {
+    "DMSD": {
       "colours": [{ "hex": "#2DA7C6" }],
       "pre": ["EDDM"],
       "type": "APP",
@@ -10511,7 +10443,7 @@
       "frequency": "129.525",
       "callsign": "München Radar"
     },
-    "DNAT": {
+    "DND": {
       "colours": [{ "hex": "#9722cf" }],
       "pre": ["EDDN"],
       "type": "APP",
@@ -10525,7 +10457,7 @@
       "frequency": "126.175",
       "callsign": "München Radar"
     },
-    "DPNAT": {
+    "DPND": {
       "colours": [{ "hex": "#39d3a3" }],
       "pre": ["EDDP"],
       "type": "APP",
@@ -10539,7 +10471,7 @@
       "frequency": "126.065",
       "callsign": "München Radar"
     },
-    "DPSAT": {
+    "DPSD": {
       "colours": [{ "hex": "#c062c7" }],
       "pre": ["EDDP"],
       "type": "APP",
@@ -10900,16 +10832,7 @@
     "EDDM": {
       "callsign": "München",
       "coord": [48.353889, 11.786111],
-      "topdown": [
-        "DMNL",
-        "DMSL",
-        "DMNH",
-        "DMSH",
-        "DMNAT",
-        "DMSAT",
-        "ZUG",
-        "RDG"
-      ]
+      "topdown": ["DMNL", "DMSL", "DMNH", "DMSH", "DMND", "DMSD", "ZUG", "RDG"]
     },
     "EDDN": {
       "callsign": "Nürnberg",
@@ -10919,7 +10842,7 @@
     "EDDP": {
       "callsign": "Leipzig",
       "coord": [51.424, 12.236333333333],
-      "topdown": ["TRN", "TRS", "GER", "HAL", "MEI", "HOF"]
+      "topdown": ["TRN", "TRS", "HAL", "GER", "HOF"]
     },
     "EDJA": {
       "callsign": "Memmingen",
@@ -10957,12 +10880,24 @@
     "EDDE": {
       "callsign": "Erfurt",
       "coord": [50.979833333333, 10.958166666667],
-      "topdown": ["TRS", "TRN", "GER", "HAL", "MEI", "HOF"]
+      "topdown": [
+        "TRS",
+        "TRN",
+        "HAL",
+        "GER",
+        "HOF"
+      ]
     },
     "EDDC": {
       "callsign": "Dresden",
       "coord": [51.134333333333, 13.768],
-      "topdown": ["SAS", "MEI", "TRS", "GER", "HOF", "HAL"]
+      "topdown": [
+        "SAS",
+        "MEI",
+        "TRS",
+        "GER",
+        "HOF"
+      ]
     },
     "EDDF": {
       "callsign": "Frankfurt",
