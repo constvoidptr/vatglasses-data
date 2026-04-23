@@ -2126,18 +2126,6 @@
             ]
         },
         {
-            "id":"EPWA UTMA EAST (CTA06)",
-            "group":"APP",
-            "owner":["AKKE","AKK","J","JR","SWW","TC","EWW","ALM","AH"],
-            "sectors":[
-                {
-                    "min":145,
-                    "max":284,
-                    "points":[["495424","0211034"],["495548","0211031"],["501158","0212156"],["501021","0205911"],["495424","0211034"]]
-                }
-            ]
-        },
-        {
             "id":"EPLL TMA (CTA03)",
             "group":"APP",
             "owner":["TLL","ASWA","ANWA","AWA","CL","NE","TC","DTC","SWW","EWW","NWW","ALM","AH"],
