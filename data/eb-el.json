@@ -5979,7 +5979,7 @@
     },
     "BHLD": {
       "callsign": "Brussels Arrival",
-      "frequency": "129.730",
+      "frequency": "135.040",
       "type": "APP",
       "pre": ["EBBR"],
       "colours": [{ "hex": "#000096" }]
@@ -6025,6 +6025,13 @@
       "type": "CTR",
       "pre": ["EBBU"],
       "colours": [{ "hex": "#ffc57d" }]
+    },
+    "BLOW": {
+      "callsign": "Brussels Control",
+      "frequency": "126.980",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#a74b2d" }]
     },
     "BSUP": {
       "callsign": "Brussels Supervisor",
@@ -6112,7 +6119,7 @@
     },
     "KI": {
       "callsign": "Kortrijk Information",
-      "frequency": "120.250",
+      "frequency": "120.255",
       "type": "TWR",
       "pre": ["EBKT"],
       "colours": [{ "hex": "#009300" }]
@@ -6140,7 +6147,7 @@
     },
     "OA": {
       "callsign": "Ostend Approach",
-      "frequency": "120.600",
+      "frequency": "120.605",
       "type": "APP",
       "pre": ["EBOS"],
       "colours": [{ "hex": "#6052a5" }]

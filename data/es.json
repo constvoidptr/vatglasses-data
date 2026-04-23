@@ -570,7 +570,7 @@
         {
           "id": "ESOS 7-3",
           "group": "ESOS",
-          "owner": ["S7", "S1", "S9", "S3", "AA", "MW", "M7", "M2"],
+          "owner": ["S7", "S1", "S9", "S3", "AA"],
           "sectors": [
             {
               "min": 105,
@@ -8306,7 +8306,7 @@
         {
           "id": "ESSB CTR",
           "group": "TWR",
-          "owner": ["SB", "S", "W", "E", "RTC", "S9", "S1", "S3", "AA"],
+          "owner": ["SB", "RTC", "S", "W", "E", "S9", "S1", "S3", "AA"],
           "sectors": [
             {
               "min": 0,
